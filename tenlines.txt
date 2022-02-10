@@ -7,3 +7,4 @@ This text file has ten lines.
 This text file has ten lines.
 This text file has ten lines.
 This text file has ten lines.
+This text file has ten lines.
