@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is being revised by Jhen
 This is being revised by Jhen
 This is being revised by Jhen
@@ -8,3 +9,34 @@ This is being revised by Jhen
 This is being revised by Jhen
 This is being revised by Jhen
 This is being revised by Jhen
+=======
+<<<<<<< HEAD
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+This text file has ten lines.
+
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+
+=======
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+This text file has 91 lines.
+>>>>>>> e412ec1ff0252920e41484f838212fbfbbd1c480
+>>>>>>> 5581fa4ed652de57b2c20c098fea9f0083755051
