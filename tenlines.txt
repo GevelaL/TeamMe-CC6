@@ -8,3 +8,9 @@ This text file has ten lines.
 This text file has ten lines.
 This text file has ten lines.
 This text file has ten lines.
+
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+This file is being revised by Collaborator Diana.
+
